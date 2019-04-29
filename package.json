@@ -1,0 +1,40 @@
+{
+  "name": "webpack-configuration-20.5",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Martin-Ka3ka/webpack-configuration-20.5.git"
+  },
+  "author": "Martin_Ka3ka",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Martin-Ka3ka/webpack-configuration-20.5/issues"
+  },
+  "homepage": "https://github.com/Martin-Ka3ka/webpack-configuration-20.5#readme",
+  "devDependencies": {
+    "@babel/core": "^7.2.2",
+    "@babel/preset-env": "^7.2.3",
+    "@babel/preset-react": "^7.0.0",
+    "babel-loader": "^8.0.4",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-react": "^6.24.1",
+    "css-loader": "^2.0.1",
+    "html-webpack-plugin": "^3.2.0",
+    "optimize-js-plugin": "0.0.4",
+    "react": "^16.7.0",
+    "react-dom": "^16.7.0",
+    "style-loader": "^0.23.1",
+    "webpack": "^4.28.1",
+    "webpack-cli": "^3.1.2"
+  },
+  "dependencies": {
+    "all": "0.0.0",
+    "uuid": "^3.3.2"
+  }
+}
